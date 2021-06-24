@@ -21,6 +21,9 @@ At the end of the course, you will replicate a result from a published paper in 
 
 -------
 
+https://classroom.udacity.com/courses/ud600
+
+
 ### LESSON 1: Introduction to Reinforcement Learning
 
 ### LESSON 2: 1. Smoov & Curly's Bogus Journey
